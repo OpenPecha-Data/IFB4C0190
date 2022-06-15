@@ -1,0 +1,122 @@
+id: IFB4C0190
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:34:57.941694'
+last_modified: '2022-06-15T20:34:57.941699'
+parser: null
+source_metadata:
+  title: Amitābha and Sukhāvatī Series
+  language: it
+  description: 'Texts and practices related to Buddha Amitābha and his pure-land,
+    the blissful western paradise of Sukhāvatī (bde ba can), including prayers of
+    aspiration to be reborn in Sukhāvatī (bde smon):'
+  volume:
+    fDD4E:
+      title: Aspiration for Rebirth in Sukhāvatī
+      base_file: fDD4E.txt
+      order: 1
+      parent: Aspiration Prayers (bde smon)
+    f6F6E:
+      title: Prayer to Buddha Amitābha
+      base_file: f6F6E.txt
+      order: 2
+      parent: Aspiration Prayers (bde smon)
+    fF588:
+      title: A Sukhāvatī Prayer and Aspiration
+      base_file: fF588.txt
+      order: 3
+      parent: Aspiration Prayers (bde smon)
+    f6A9A:
+      title: Prayer to Buddha Amitābha
+      base_file: f6A9A.txt
+      order: 4
+      parent: Aspiration Prayers (bde smon)
+    f0025:
+      title: Lamp Aspiration Prayer (from the Tsok Offering 'A Rain of Blessings')
+      base_file: f0025.txt
+      order: 5
+      parent: Aspiration Prayers (bde smon)
+    f5E59:
+      title: Brief Sukhāvatī Aspiration
+      base_file: f5E59.txt
+      order: 6
+      parent: Aspiration Prayers (bde smon)
+    f9D77:
+      title: Aspiration for Rebirth in Sukhāvatī
+      base_file: f9D77.txt
+      order: 7
+      parent: Aspiration Prayers (bde smon)
+    f47B7:
+      title: Aspiration for the Land of Great Bliss
+      base_file: f47B7.txt
+      order: 8
+      parent: Aspiration Prayers (bde smon)
+    f9A89:
+      title: Aspiration to Be Reborn in the Realm of Sukhāvatī
+      base_file: f9A89.txt
+      order: 9
+      parent: Aspiration Prayers (bde smon)
+    fE321:
+      title: Prayer of Aspiration Towards Sukhāvatī
+      base_file: fE321.txt
+      order: 10
+      parent: Aspiration Prayers (bde smon)
+    fEBD3:
+      title: Sukhāvatī Aspiration
+      base_file: fEBD3.txt
+      order: 11
+      parent: Aspiration Prayers (bde smon)
+    f1FB7:
+      title: Prayer of Aspiration Towards Sukhāvatī
+      base_file: f1FB7.txt
+      order: 12
+      parent: Aspiration Prayers (bde smon)
+    f0E40:
+      title: Brief Sukhāvatī Aspiration
+      base_file: f0E40.txt
+      order: 13
+      parent: Aspiration Prayers (bde smon)
+    fDBBF:
+      title: Dedication from Vajravārāhī Cycle of Namchö revealed by Mingyur Dorje
+      base_file: fDBBF.txt
+      order: 14
+      parent: Aspiration Prayers (bde smon)
+    fCA1B:
+      title: Prayer to Behold Amitābha in Dreams
+      base_file: fCA1B.txt
+      order: 15
+      parent: Aspiration Prayers (bde smon)
+    f188A:
+      title: Verso Inscription on an Image of the Pure Land of Great Bliss
+      base_file: f188A.txt
+      order: 16
+      parent: Inscriptions
+    f6018:
+      title: Prayer for the Land of Great Bliss Practice
+      base_file: f6018.txt
+      order: 17
+      parent: Lineage Prayers
+    fA7D7:
+      title: Brief Amitābha Sleeping Practice
+      base_file: fA7D7.txt
+      order: 18
+      parent: Meditation
+    f0A6B:
+      title: Meditation on Amitābha
+      base_file: f0A6B.txt
+      order: 19
+      parent: Meditation
+    f740F:
+      title: 'The Swift Path to Great Bliss: A Sādhana of Amitābha, Buddha of Limitless
+        Light'
+      base_file: f740F.txt
+      order: 20
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
